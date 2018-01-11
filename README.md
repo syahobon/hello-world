@@ -1,3 +1,3 @@
 # hello-world
 newbie repo
-haha nyobaqan berajah git ne
+haha nyobaqan berajah git ne sekediq
